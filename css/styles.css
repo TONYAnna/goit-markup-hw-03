@@ -290,7 +290,6 @@ ul {
     margin: -1px;
     border: 0;
     padding: 0;
-
     white-space: nowrap;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
@@ -386,7 +385,6 @@ ul {
     color: var(--logo-cl);
     margin-bottom: 20px;
 }
-
 
 .footer .f-studio {
     color: var(--light-txt-cl)
