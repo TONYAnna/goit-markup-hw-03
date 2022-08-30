@@ -172,7 +172,7 @@ ul {
 }
 
 .team-img {
-    margin-bottom: 30px;
+    padding-bottom: 30px;
 }
 
 .team .list-title {
@@ -272,7 +272,8 @@ ul {
     line-height: calc(19 /16);
     text-align: center;
     letter-spacing: 0.03em;
-    color: var(--txt-cl)
+    color: var(--txt-cl);
+    padding-bottom: 30px;
 }
 
 .main .team {
@@ -384,6 +385,10 @@ ul {
     letter-spacing: 0.03em;
     color: var(--logo-cl);
     margin-bottom: 20px;
+}
+
+.logo-f {
+    display: block;
 }
 
 .footer .f-studio {
